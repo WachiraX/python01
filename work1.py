@@ -1,0 +1,11 @@
+print("Hello M.6/11")
+print("My name is Nutchanyut Patcharataiburai")
+print("My number is 14")
+print("age :",17,"ปี")
+print("ครอบครัวของผมมี3คน")
+print("ผมเป็นผู้ชาย")
+print("ผมเป็นคนไทย")
+print("ผมนับถือศาสนาพุทธ")
+print("งานอดิเรกชอบเล่นเกม")
+print("nickname milk")
+#นัชธ์ชาญยุทธ พัชรทับอุไร ม.6/11 เลขที่14
